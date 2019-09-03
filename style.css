@@ -15,6 +15,11 @@ h2 {
     margin: 0 0 10px;
 }
 
+img {
+    border-radius: 8px;
+    width: 450px;
+}
+
 a {
     color: #ff8000;
     font-weight: bold;
